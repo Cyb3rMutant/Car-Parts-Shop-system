@@ -1,0 +1,4 @@
+stockitem w101 20 199.99
+stockitem w99 30 249.99
+tire t800 15 500.00 24.5
+mountedholder mh54 43 80.00 plastic no
